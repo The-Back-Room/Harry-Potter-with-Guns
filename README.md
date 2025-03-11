@@ -1,9 +1,12 @@
-## Harry Potter and the Deathly Weapons
+<h1 align="center">Harry Potter and the Deathly Weapons</h1>
+<p align="center">Let the Bullets Soar</p>
+<br />
 <p align="center">
    <img src="https://github.com/user-attachments/assets/aed88ebe-2257-4705-8b71-ca2eccafafe5" width="90%">
 </p>
 Imagine yourself in a wondrous world filled with guns in this unofficial licensed IP young adult novel adapted to the big Hollywood movie screen! Hundreds of hours were invested into digitally replacing magic with guns throughout the entire parody movie.
 </p>
+<img src="https://github.com/user-attachments/assets/c7710b87-24e9-4acd-87a0-b34890da5376" width="90%">
 <br /><br />
 <details open="true">
    <summary>
