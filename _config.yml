@@ -26,7 +26,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Gun Violence Archive, icon: link, url: "https://www.gunviolencearchive.org/"}
   - {title: Violence Policy Center, icon: link, url: "http://vpc.org/"}
   - {title: Facebook, icon: facebook, url: "https://www.facebook.com/pages/Violence-Policy-Center/284334690298"}
-  - {title: Twiiter, icon: twitter, url: "https://x.com/VPCinfo"}
+  - {title: X, icon: x-twitter, url: "https://x.com/VPCinfo"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
