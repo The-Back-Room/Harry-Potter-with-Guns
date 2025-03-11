@@ -1,0 +1,29 @@
+title: "Harry Potter and the Deathly Weapons"
+author: "The Back Room"
+description: "Let the Bullets Soar"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+remote_theme: niklasbuschmann/contrast@v2.11
+
+
+# Layout
+
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "README.md"}
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
