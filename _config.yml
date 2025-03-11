@@ -1,7 +1,7 @@
 title: "Harry Potter and the Deathly Weapons"
 author: "The Back Room"
 description: "Let the Bullets Soar"
-permalink: /:title/
+
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
