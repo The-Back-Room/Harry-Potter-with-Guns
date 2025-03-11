@@ -17,24 +17,28 @@ Imagine yourself in a wondrous world filled with guns in this unofficial license
       <br /><br />
       An unsanctioned, licensed content, feature-film-long JOKE with over 175 brand-spankin' new good-enough-looking special effects shots.
    </p>
+   <hr />
    <p align="center">
       <a href="https://www.al.com/entertainment/2017/10/hollywoods_gun_obsession_41_mo.html">Hollywood's Gun Obsession</a>
    </p>
-   <hr />
+   <br />
    <p>
       Though this project started as a tasteless joke, in the wake of mass shootings and other daily horrors, we have to ask ourselves if Hollywood pushes guns too hard. If gun owners in our society really value guns for their use, or just for their sexiness. There is no doubt a fascination with the firearm, just as there is an interest with war or death or serial killers. It reminds us of our mortality. It should make us respect every moment we have on this Earth and make it a better place for everyone. But I guess we love killing a bunch? And so we've glorified it in our media. We've made it cool to pull out a gun and empty a clip real quick, or reload in slow-motion. But at the end of the day, sexy or not, a gun is a machine designed to kill. It has one purpose: murder.
    </p>
-   <p align="center">
-      <a href="https://www.gunviolencearchive.org/">GunViolenceArchive.org</a>
-   </p>
    <hr />
    <p>
+      <p align="center">
+      <a href="https://www.gunviolencearchive.org/">GunViolenceArchive.org</a>
+   </p>
+   <br />
       In the time it takes you to watch this whole movie, statistical evidence would suggest 9 people in the USA were shot, and 4 of them have/will die. Suicides account for almost double the amount of homicides by gun, so guns kill roughly 50% of gun owners or their family members. Access to high-caliber, large magazine capacity, and/or auto and semi-automatic weapons is not really something anyone needs.
    </p>
    <hr />
-   <p align="center">
+   <p>
+      <p align="center">
       <a href="https://www.preventioninstitute.org/focus-areas/preventing-violence-and-reducing-injury/preventing-violence-advocacy#Full%20Recommendations">Are There Solutions? What Can We Do?</a>
    </p>
+   <br />
    <p>
       VERY roughly paraphrasing VPC.org, - Here are five things you can do right now to help stop gun violence.
       <br /><br />
@@ -45,12 +49,12 @@ Imagine yourself in a wondrous world filled with guns in this unofficial license
       <br /><br />
       3. Join a local gun violence prevention organization. Visit States United to Prevent Gun Violence, the national umbrella organization for state gun violence prevention organizations to find a <a href="http://www.ceasefireusa.org/page/join-state-affiliate">group in your state</a>.
       <br /><br />
-      4. Write a letter to the editor in your local paper in support of gun violence prevention. Or use social media to support the Violence Policy Center’s efforts to stop gun violence. Visit the Center’s <a href="https://twitter.com/VPCinfo">Twitter</a> feed or our <a href="https://www.facebook.com/pages/Violence-Policy-Center/284334690298">Facebook</a> page for tweets and postings detailing the facts about gun violence, as well as effective solutions.
+      4. Write a letter to the editor in your local paper in support of gun violence prevention. Or use social media to support the Violence Policy Center’s efforts to stop gun violence. Visit the Center’s <a href="https://x.com/VPCinfo">X</a> feed or <a href="https://www.facebook.com/pages/Violence-Policy-Center/284334690298">Facebook</a> page for posts detailing the facts about gun violence, as well as effective solutions.
       <br /><br />
-      5. Watch Harry Potter and the Deadly Weapons to see how easy it is to push guns into a Hollywood film. See how riddikulus the notion of guns in schools looks. Understand how magic isn't real, but gun violence is. The rich could save the world, but they sit on their piles of gold like dragons. God isn't real, otherwise he's a real asshole. Murder-machines, built for the sole purpose of killing, are bad for humanity. The only way to change the world, is to try to change it. The world is huge, so the grander butterfly effect starts with the small things. Like making a silly illegal gun version of Harry Potter. And spreading the word that guns kill. It's pretty evident that they do. Spread the link, or don't, but DO educate your friends and community about gun violence. And eat your veggies. Take a shower and floss your teeth. Maybe read a book once in a while! Or at lease the AUDIOBOOK! #dontletreadingdie #dontletpeopledie #soapbox #harrypotterwithguns #themovieissometimesbetter #controversial #thebookisusuallybetter
+      5. Watch Harry Potter and the Deadly Weapons to see how easy it is to push guns into a Hollywood film. See how ridiculous the notion of guns in schools looks. Understand how magic isn't real, but gun violence is. The rich could save the world, but they sit on their piles of gold like dragons. God isn't real, otherwise he's a real asshole. Murder-machines, built for the sole purpose of killing, are bad for humanity. The only way to change the world, is to try to change it. The world is huge, so the grander butterfly effect starts with the small things. Like making a silly illegal gun version of Harry Potter. And spreading the word that guns kill. It's pretty evident that they do. Spread the link, or don't, but DO educate your friends and community about gun violence. And eat your veggies. Take a shower and floss your teeth. Maybe read a book once in a while! Or at least the AUDIOBOOK! #dontletreadingdie #dontletpeopledie #soapbox #harrypotterwithguns #themovieissometimesbetter #controversial #thebookisusuallybetter
    </p>
    <p align="center">
-      <a href="http://vpc.org/">ViolencePolicyCenter . org</a>
+      <a href="http://vpc.org/">ViolencePolicyCenter.org</a>
    </p>
    <hr />
 </details>
