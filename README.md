@@ -60,7 +60,6 @@
    <p align="center">
       <a href="http://vpc.org/">ViolencePolicyCenter.org</a>
    </p>
-   <hr />
 </details>
 <p align="center">
    <bold>DOWNLOAD</bold>
