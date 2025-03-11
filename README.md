@@ -1,6 +1,6 @@
 ## Harry Potter and the Deathly Weapons
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/aed88ebe-2257-4705-8b71-ca2eccafafe5" width="75%">
+   <img src="https://github.com/user-attachments/assets/aed88ebe-2257-4705-8b71-ca2eccafafe5" width="90%">
 </p>
 <details open="true">
   <summary>
