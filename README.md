@@ -2,18 +2,14 @@
 <p align="center">
    <img src="https://github.com/user-attachments/assets/aed88ebe-2257-4705-8b71-ca2eccafafe5" width="90%">
 </p>
+Imagine yourself in a wondrous world filled with guns in this unofficial licensed IP young adult novel adapted to the big Hollywood movie screen! Hundreds of hours were invested into digitally replacing magic with guns throughout the entire parody movie.
+</p>
+<br /><br />
 <details open="true">
-  <summary>
-    Important Information
-  </summary>
-   <br />
+   <summary>
+      ARTIST STATEMENT
+   </summary>
    <p>
-      Imagine yourself in a wondrous world filled with guns in this unofficial licensed IP young adult novel adapted to the big Hollywood movie screen! Hundreds of hours were invested into digitally replacing magic with guns throughout the entire parody movie.
-      <br /><br />
-   </p>
-   <p align="center">
-      <bold>ARTIST STATEMENT</bold>
-   </p>
    <p>
       Why? WHY?! Why would you do this?! you may yell at the screen. Rest assured, I understand your excitement. But just take a deep breath and accept this is a post modern world. Nothing is sacred; not books, not images, not news, not stories. Mix and match is the new medium. Work with video like clay. Change it after the fact; after you've baked it. Erase, paint over, restructure. Re-present in a new light. I am not alone in editing guns into Harry Potter footage (though this project was conceived prior to knowledge of the existence such similar videos). It was surprising how easy it was to interchange magic with guns. Obviously it isn't always realistic; it's a farcical parody joke movie.
       <br /><br />
